@@ -1,0 +1,2 @@
+# Smart-Irrigation-System
+Smart irrigation systems tailor watering schedules and run times automatically to meet specific landscape needs. These controllers significantly improve outdoor water use efficiencies. Unlike traditional irrigation controllers that operate on a preset programmed schedule and timers, smart irrigation controllers monitor weather, soil conditions, evaporation and plant water use to automatically adjust the watering schedule to actual conditions of the site.
